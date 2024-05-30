@@ -28,3 +28,5 @@ Songs: This table stores the information of each song, such as its title, artist
 Artists: This table stores the information of each artist, such as their name, biography, country, followers, etc.
 Albums: This table stores the information of each album, such as its title, artist ID, release date, cover art, tracks, etc.
 Playlists: This table stores the information of each playlist, such as its name, creator ID, description, songs, popularity, etc.
+
+Our Medium Article: https://medium.com/@pdlekhaa/sql-vs-nosql-databases-9b858b9dd2d3
